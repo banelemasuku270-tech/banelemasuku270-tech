@@ -25,4 +25,4 @@
 Completed and in progress certification
 
 - Cybersecurity IQ academy (in progress)
-- [Cisco Networking Basics Certificate]()
+- [Cisco Networking Basics Certificate](https://drive.google.com/file/d/1rycI2xuGgCM_TLGmAmFRi7H4M8IbZWrI/view?usp=sharing)
