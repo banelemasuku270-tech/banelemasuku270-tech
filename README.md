@@ -13,8 +13,8 @@
 
 ## About Me
 
-- Documenting home labs focused on IT Support, Endpoint Security & Threat Detection  
-- Currently Learning advanced SIEM, vulnerability management, and cloud security fundamentals  
+- Documenting home labs focused on IT Support  
+- Currently Learning advanced SIEM, vulnerability management, and cloud security fundamentals,Endpoint Security & Threat Detection
 - Open to roles in: IT Helpdesk (L1/L2) and Technical Support  
 - Best way to reach me: LinkedIn, phone, or email
 
