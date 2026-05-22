@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Banele Masuku </h1>
 
-<!--
-**banelemasuku270-tech/banelemasuku270-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/banele-masuku-76771b316/">LinkedIn</a> •
+  +27 68 592 4370 •
+  <a href=":banelemasuku270@gmail.com">Email</a> •
+  Soweto, Gauteng, South Africa
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## About Me
+
+- Currently documenting home labs focused on IT Support, Endpoint Security & Threat Detection  
+- Currently Learning advanced SIEM, vulnerability management, and cloud security fundamentals  
+- Open to roles in: IT Helpdesk (L1/L2) and Technical Support  
+- Best way to reach me: LinkedIn, phone, or email
+
+
+
+  
+## Certifications & Coursework ## 
+Completed and in progress certification
+
+- Cybersecurity IQ academy (in progress)
+- [Cisco Networking Basics Certificate]()
