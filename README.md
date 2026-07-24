@@ -30,11 +30,8 @@ Completed and in progress certification
 
 ## **Core Skills & Tools**
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="50"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,azure,linux,powershell,kali" />
 </p>
 
 Also experienced with: IT Support (hardware and software troubleshooting), Windows Server basics, Active Directory fundamentals, Group Policy management, ticketing systems, Windows operating systems support, endpoint device troubleshooting, user account and access management, basic network troubleshooting, and technical documentation/reporting.
