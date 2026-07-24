@@ -30,7 +30,7 @@ Completed and in progress certification
 
 ## **Core Skills & Tools**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=windows,azure,linux,powershell,kali" />
 </p>
 
