@@ -26,6 +26,7 @@ Completed and in progress certification
 
 - Cybersecurity IQ academy (in progress)
 - [Cisco Networking Basics Certificate](https://drive.google.com/file/d/1rycI2xuGgCM_TLGmAmFRi7H4M8IbZWrI/view?usp=sharing)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/6MT400XCEDUS)
 
 
 ## **Core Skills & Tools**
