@@ -63,3 +63,44 @@ Created a vulnerability management lab with Nessus on Windows 10 targets.
 
 <a href="https://github.com/banelemasuku270-tech/Vulnerability-Management-And-Risk-Assessment-Lab">
 ➜ View Project
+
+
+
+
+
+
+
+## 🚀 Projects I'm Proud Of
+
+Here are my hands-on home lab projects demonstrating real-world IT support and cybersecurity skills.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🖥️ IT Helpdesk L2 – Home Lab Environment
+
+Built a complete virtual helpdesk simulation using VirtualBox, Windows Server 2016 as a Domain Controller, and multiple Windows 10 clients.
+
+<a href="https://github.com/banelemasuku270-tech/IT-support-portfolio">
+<strong>➜ View Project</strong>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 🔍 Vulnerability Analyst – Nessus Scanning Lab
+
+Created a vulnerability management lab using Nessus on Windows 10 targets. Identified security weaknesses, assessed risks, and performed vulnerability remediation.
+
+<a href="https://github.com/banelemasuku270-tech/Vulnerability-Management-And-Risk-Assessment-Lab">
+<strong>➜ View Project</strong>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
