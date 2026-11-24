@@ -35,7 +35,7 @@ Completed and in progress certification
   <img src="https://skillicons.dev/icons?i=windows,azure,linux,powershell,kali" />
 </p>
 
-Also experienced with: IT Support (hardware and software troubleshooting), Windows Server basics, Active Directory fundamentals, Group Policy management, ticketing systems, Windows operating systems support, endpoint device troubleshooting, user account and access management, basic network troubleshooting, and technical documentation/reporting.
+Also experienced with: Active Directory, Group Policy, RDP/Quick Assist, PDQ Deploy, Incident Response, Vulnerability Management, Network Scanning, Excel reporting, Server Administration, Ticketing Systems
 
 
 ##  Projects I'm Proud Of
