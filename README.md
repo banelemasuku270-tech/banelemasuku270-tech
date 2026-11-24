@@ -56,9 +56,10 @@ Built a complete virtual helpdesk simulation using VirtualBox, Windows Server 20
 </div>
 
 <h2>Vulnerability Analyst – Nessus Scanning Lab
+  
+<p>
 Created a vulnerability management lab with Nessus on Windows 10 targets.
-
-
+</p>
 
 
 
