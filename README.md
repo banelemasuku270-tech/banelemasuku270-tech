@@ -38,39 +38,7 @@ Completed and in progress certification
 Also experienced with: IT Support (hardware and software troubleshooting), Windows Server basics, Active Directory fundamentals, Group Policy management, ticketing systems, Windows operating systems support, endpoint device troubleshooting, user account and access management, basic network troubleshooting, and technical documentation/reporting.
 
 
-## Projects I'm Proud Of
-Here are my hands-on home lab projects demonstrating real-world IT support and cybersecurity skills:
-
-<div align="center">
-
-<h2>IT Helpdesk L2 – Home Lab Environment</h2>
-
-<p>
-Built a complete virtual helpdesk simulation using VirtualBox, Windows Server 2016 as domain controller & multiple Windows 10 clients.
-</p>
-
-<a href="https://github.com/banelemasuku270-tech/IT-support-portfolio">
-  ➜ View Project
-</a>
-
-<div align="center">
-
-<h2>Vulnerability Analyst – Nessus Scanning Lab</h2>
-
-<p>
-Created a vulnerability management lab with Nessus on Windows 10 targets.
-</p>
-
-<a href="https://github.com/banelemasuku270-tech/Vulnerability-Management-And-Risk-Assessment-Lab">
-➜ View Project
-
-
-
-
-
-
-
-## 🚀 Projects I'm Proud Of
+##  Projects I'm Proud Of
 
 Here are my hands-on home lab projects demonstrating real-world IT support and cybersecurity skills.
 
@@ -80,7 +48,7 @@ Here are my hands-on home lab projects demonstrating real-world IT support and c
 <tr>
 <td width="50%" align="center">
 
-### 🖥️ IT Helpdesk L2 – Home Lab Environment
+### IT Helpdesk L2 – Home Lab Environment
 
 Built a complete virtual helpdesk simulation using VirtualBox, Windows Server 2016 as a Domain Controller, and multiple Windows 10 clients.
 
@@ -91,7 +59,7 @@ Built a complete virtual helpdesk simulation using VirtualBox, Windows Server 20
 </td>
 <td width="50%" align="center">
 
-### 🔍 Vulnerability Analyst – Nessus Scanning Lab
+###  Vulnerability Analyst – Nessus Scanning Lab
 
 Created a vulnerability management lab using Nessus on Windows 10 targets. Identified security weaknesses, assessed risks, and performed vulnerability remediation.
 
@@ -104,3 +72,10 @@ Created a vulnerability management lab using Nessus on Windows 10 targets. Ident
 </table>
 
 </div>
+
+
+
+
+
+
+
